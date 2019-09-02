@@ -1,0 +1,37 @@
+
+Worked in Trading migration project helped me understand the Netxinvestor Product's architecture,flow of the product and stock market stuffs even better. 
+
+Projects like setting up new ADA theme site for AG group sites and rearranging tabs NXI and NMIS sites helped me learn about liferay and its components even better. 
+
+Working with Frond end changes in project like Patriot and helped me learning Dojo.
+
+Working in OFX projects like GatewayPropsCommon for the special character in credentials, Taxlot form changes, RCA task helped me understanding OFX .
+
+I have been in Build support activities for two releases which helped me gain patience, knowledge about Jenkins, creating jobs in Jenkins, BXP1 and BXP2 vms, Splunk, shell scripts. I have further started learning new things like Angular, Splunk. My Team members were encouraging and supportive with me.
+
+Hope i will do even better in my future endeavors working in my Team while enriching my knowledge ahead. 
+
+
+
+Worked in Trading - Groovy Grails retirement using Microservices approach.
+
+Worked on AG integration - eQuipt - Conservative & ADA stite setup as well.
+
+Worked on Project Patriot - Define and Display Payee and Paid For Info - History screen integration in NXI
+
+Worked on NXI-OFX Gateway Allow Special Characters in UserID / Password Fields - Understood the basic flow of OFX
+
+Working on 459358122 OFX PBI000000203146 RCA task TAS000000175497 - Validate incoming user/accounts vs outgoing user/accounts
+
+Worked on integrating the Daily Confirm Redesign - with NXD team
+
+Worked on Alexa changes to add the Site id for Alexa calls
+
+CSRF Implementation for Profile package - as part of security effort
+
+Also i was as part of Build support for 2 releases which deals with BXP 1 & BXP 2 deployments.
+
+I have further started learning new things like Angular, Kibana.
+
+
+
